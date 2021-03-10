@@ -1,6 +1,7 @@
 # About This Project 
 I developed Recurrent Neural Network(RNN) that can perform prediction of crypto currency prices.
-The dataset being used is web scraped cryptocurrency data.
+The dataset being used is web scraped cryptocurrency data. Below show the development process: data cleaning, data analysis and visualization,
+feature engineerng, model development and validation.
 
 
 # 1. Data Cleaning 
